@@ -15,6 +15,14 @@ const quotes = [
     quote: `"There is alway time to code 🧑‍💻"`,
     writer: `-Efe Gift`,
   },
+  {
+    quote: `"I'm addicted to Software Development 🧑‍💻"`,
+    writer: `-Efe Gift`,
+  },
+  {
+    quote: `"I am an Experienced Frontend Developer"`,
+    writer: `-Efe Gift`,
+  },
 ];
 
 const btn = document.getElementById("new-quote");
