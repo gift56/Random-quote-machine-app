@@ -18,4 +18,5 @@ const quotes = [
 ];
 
 const btn = document.getElementById("new-quote");
-const Quotes = document.getElementById("text");
+const quote = document.getElementById("text");
+const author = document.getElementById("author");
