@@ -1,1 +1,3 @@
-const quotes=[]
+const quotes = [{
+    
+}];
