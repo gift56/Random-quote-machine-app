@@ -20,3 +20,8 @@ const quotes = [
 const btn = document.getElementById("new-quote");
 const quote = document.getElementById("text");
 const author = document.getElementById("author");
+
+const generateQuotes = () => {\
+};
+
+btn.addEventListener("click", generateQuotes);
