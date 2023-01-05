@@ -1,5 +1,6 @@
 const quotes = [
   {
-    quote: ``,
+    quote: `"I will Never Love again!😒"`,
+    writer: `-mk Gift`,
   },
 ];
