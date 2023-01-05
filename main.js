@@ -21,7 +21,8 @@ const btn = document.getElementById("new-quote");
 const quote = document.getElementById("text");
 const author = document.getElementById("author");
 
-const generateQuotes = () => {\
+const generateQuotes = () => {
+  let random = Math.floor(Math.random() * quotes.length);
 };
 
 btn.addEventListener("click", generateQuotes);
