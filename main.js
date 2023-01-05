@@ -23,6 +23,10 @@ const author = document.getElementById("author");
 
 const generateQuotes = () => {
   let random = Math.floor(Math.random() * quotes.length);
+
+  quote.innerHTML = quotes[random].quote;
+
+  author.innerHTML = quotes[random].writer;
 };
 
 btn.addEventListener("click", generateQuotes);
