@@ -16,3 +16,5 @@ const quotes = [
     writer: `-Efe Gift`,
   },
 ];
+
+const btn = document.getElementById("new-quote");
