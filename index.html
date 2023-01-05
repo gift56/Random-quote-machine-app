@@ -17,15 +17,25 @@
     <div
       class="d-flex justify-content-center align-items-center w-100 bg-primary min-vh-100 flex-column"
     >
-      <div class="container d-flex align-items-center justify-content-center flex-column">
+      <div
+        class="container d-flex align-items-center justify-content-center flex-column"
+      >
         <div class="header">
           <h2>Random Quote Machine</h2>
         </div>
-        <div class="main-content">
+        <div class="main-content" id="quote-box">
           <div class="textArea">
-            <span class="quote">
-                "Life is sweet when you're a developer!"
+            <span class="quote" id="text">
+              "Life is sweet when you're a developer!"
             </span>
+          </div>
+          <h4 class="writer" id="author">- Luke Coder</h4>
+          <div class="buttonArea">
+            <div class="btn">
+              <button class="btn btn-secondary" id="new-quote">
+                Find Quotes
+              </button>
+            </div>
           </div>
         </div>
       </div>
