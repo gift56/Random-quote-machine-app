@@ -1,3 +1,5 @@
-const quotes = [{
-    
-}];
+const quotes = [
+  {
+    quote: ``,
+  },
+];
