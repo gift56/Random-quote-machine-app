@@ -18,3 +18,4 @@ const quotes = [
 ];
 
 const btn = document.getElementById("new-quote");
+const Quotes = document.getElementById("text");
