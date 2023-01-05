@@ -12,7 +12,7 @@ const quotes = [
     writer: `-Money Man`,
   },
   {
-    quote: `"I will Never Love again!😒"`,
-    writer: `-mk Gift`,
+    quote: `"There is alway time to code 🧑‍💻"`,
+    writer: `-Efe Gift`,
   },
 ];
